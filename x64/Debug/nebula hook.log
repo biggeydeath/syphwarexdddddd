@@ -1,0 +1,309 @@
+﻿  Aimbot.cpp
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1146): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1146): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1146): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1150): warning C4311: 'type cast': pointer truncation from 'CollisionProperty *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1150): warning C4302: 'type cast': truncation from 'CollisionProperty *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1150): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1321): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1321): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1321): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1352): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1352): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1352): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1356): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1356): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1356): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1361): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1361): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1361): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1370): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1370): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1370): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1374): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1374): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1374): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1378): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1378): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1378): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1382): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1382): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1382): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1386): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1386): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1386): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1390): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1390): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1390): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1394): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1394): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1394): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1402): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1402): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1402): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1406): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1406): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1406): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1410): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1410): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1410): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1417): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1417): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1417): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1421): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1421): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1421): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1425): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1425): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1425): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1430): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1430): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1430): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1472): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1472): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1472): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'VarMapping_t *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1476): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1476): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1476): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1488): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1488): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1488): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1500): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1500): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1500): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1521): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1521): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1521): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1530): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1530): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1530): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1536): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1536): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1536): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1540): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1540): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1540): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1544): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1544): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1544): warning C4312: 'type cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1548): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1548): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1548): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1572): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1572): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1572): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1576): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1576): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1576): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1581): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1581): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1581): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1586): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1586): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1586): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1599): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1599): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1599): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'IClientNetworkable *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1612): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1612): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1612): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1617): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1617): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1617): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1622): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1622): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1622): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1626): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1626): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1626): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'CollisionProperty *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1631): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1631): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1631): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'matrix3x4 (*)' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1635): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1635): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1635): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'IClientRenderable *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1639): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1639): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1639): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1643): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1643): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1643): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1647): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1647): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1647): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'QAngle *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1651): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1651): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1651): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'QAngle *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1655): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1655): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1655): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'QAngle *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1659): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1659): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1659): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'QAngle *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1663): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1663): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1663): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'QAngle *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1667): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1667): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1667): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1671): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1671): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1671): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1681): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1681): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1681): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1685): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1685): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1685): warning C4312: 'type cast': conversion from 'DWORD' to 'UINT *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1689): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1689): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1689): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1693): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1693): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1698): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1706): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1715): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1715): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1715): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1720): warning C4311: 'type cast': pointer truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1720): warning C4302: 'type cast': truncation from 'CBaseEntity *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\baseentity.h(1720): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\convar.h(86): warning C4311: 'type cast': pointer truncation from 'ConVar *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\convar.h(86): warning C4302: 'type cast': truncation from 'ConVar *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\convar.h(91): warning C4311: 'type cast': pointer truncation from 'ConVar *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\convar.h(91): warning C4302: 'type cast': truncation from 'ConVar *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\crc32.h(150): warning C4311: 'type cast': pointer truncation from 'unsigned char *' to 'unsigned int'
+c:\users\muzza\desktop\syhp\structs\crc32.h(150): warning C4302: 'type cast': truncation from 'unsigned char *' to 'unsigned int'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(208): warning C4311: 'type cast': pointer truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(208): warning C4302: 'type cast': truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(208): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(212): warning C4311: 'type cast': pointer truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(212): warning C4302: 'type cast': truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(212): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'HANDLE *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(216): warning C4311: 'type cast': pointer truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(216): warning C4302: 'type cast': truncation from 'CBomb *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(216): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(224): warning C4311: 'type cast': pointer truncation from 'CGrenade *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(224): warning C4302: 'type cast': truncation from 'CGrenade *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(224): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'bool *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(228): warning C4311: 'type cast': pointer truncation from 'CGrenade *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(228): warning C4302: 'type cast': truncation from 'CGrenade *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(228): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(244): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(244): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(244): warning C4312: 'type cast': conversion from 'DWORD' to 'model_t **' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(248): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(248): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(248): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'Vector *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(255): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(255): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(255): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'HANDLE *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(259): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(259): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(259): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(263): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(263): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(263): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(267): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(267): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(267): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(271): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(271): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(271): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(275): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(275): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(275): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(282): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(282): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(282): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(286): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(286): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(286): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(491): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(491): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(491): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(567): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(567): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(567): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(571): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(571): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(571): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(575): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(575): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(575): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(579): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(579): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(579): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(583): warning C4311: 'type cast': pointer truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(583): warning C4302: 'type cast': truncation from 'CBaseCombatWeapon *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(583): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(591): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(591): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(591): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'IClientNetworkable *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(603): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(603): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(603): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(608): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(608): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(608): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(616): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(616): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(616): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(625): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(625): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(625): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(629): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(629): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(629): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(636): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(636): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(636): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(643): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(643): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(643): warning C4312: 'type cast': conversion from 'unsigned long' to 'char *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(648): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(648): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(648): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(653): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(653): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(653): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(658): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(658): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(658): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(663): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(663): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(663): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(668): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(668): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(668): warning C4312: 'type cast': conversion from 'unsigned long' to 'float *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(673): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(673): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(673): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(677): warning C4311: 'type cast': pointer truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(677): warning C4302: 'type cast': truncation from 'CBaseAttributableItem *' to 'DWORD'
+c:\users\muzza\desktop\syhp\structs\basecombatweapon.h(677): warning C4312: 'type cast': conversion from 'unsigned long' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\interfaces.h(57): warning C4312: 'type cast': conversion from 'DWORD' to 'PDWORD' of greater size
+c:\users\muzza\desktop\syhp\interfaces.h(63): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(63): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(63): warning C4312: 'type cast': conversion from 'DWORD' to 'C_TEFireBullets *' of greater size
+c:\users\muzza\desktop\syhp\interfaces.h(67): warning C4311: 'type cast': pointer truncation from 'C_TEFireBullets *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(67): warning C4302: 'type cast': truncation from 'C_TEFireBullets *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(68): warning C4311: 'type cast': pointer truncation from 'CGlobalVarsBase *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(68): warning C4302: 'type cast': truncation from 'CGlobalVarsBase *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(69): warning C4311: 'type cast': pointer truncation from 'CClientModeShared *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(69): warning C4302: 'type cast': truncation from 'CClientModeShared *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(70): warning C4311: 'type cast': pointer truncation from 'IMoveHelper *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(70): warning C4302: 'type cast': truncation from 'IMoveHelper *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(78): warning C4312: 'type cast': conversion from 'DWORD' to 'CGlowObjectManager *' of greater size
+c:\users\muzza\desktop\syhp\interfaces.h(79): warning C4311: 'type cast': pointer truncation from 'CGlowObjectManager *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(79): warning C4302: 'type cast': truncation from 'CGlowObjectManager *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(96): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(96): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(103): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+c:\users\muzza\desktop\syhp\interfaces.h(103): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+c:\users\muzza\desktop\syhp\dynskin\hfile.h(41): warning C4267: 'return': conversion from 'size_t' to 'const File::szPos', possible loss of data
+c:\users\muzza\desktop\syhp\dynskin\hskins.h(35): warning C4267: 'return': conversion from 'size_t' to 'const DynSkin::File::szPos', possible loss of data
+c:\users\muzza\desktop\syhp\aimbot.cpp(165): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\muzza\desktop\syhp\aimbot.cpp(412): warning C4312: 'reinterpret_cast': conversion from 'DWORD' to 'int *' of greater size
+c:\users\muzza\desktop\syhp\aimbot.cpp(567): warning C4305: '=': truncation from 'double' to 'float'
+  Antiaim.cpp
